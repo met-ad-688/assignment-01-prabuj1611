@@ -2,7 +2,7 @@
 
 **Description**
 
-** Analysis of CSV files for keyword occurrences is performed using two separate scripts:** 
+**Analysis of CSV files for keyword occurrences is performed using two separate scripts:** 
 
 The count_python.sh script is a shell script that searches for "python" in question_tags.csv and questions.csv using grep for case-insensitive matching. It efficiently processes text directly without loading files into memory.
 

@@ -1,6 +1,6 @@
-# Assignment-01:                       Counting Keywords in CSV Files
+**Assignment-01:**                       **Counting Keywords in CSV Files**
 
-# Description
+**Description**
 
 **The analysis of CSV files for keyword occurrences is performed using two separate scripts:** 
 
